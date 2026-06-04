@@ -153,8 +153,6 @@ SOFTWARE_PATHS = {
     'psiblast': '/root/autodl-tmp/RGTBind-master/ncbi-blast-2.17.0+/bin/psiblast',
     'hhblits': '/root/autodl-tmp/RGTBind-master/hh-suite/build/bin/hhblits',
     'dssp': '/root/miniconda3/envs/RGTBind/bin/mkdssp',
-    # 'uniref90': './database/u90/uniref90',
-    # 'uniclust30': './database/u30/UniRef30_2023_02'
 }
 
 # Amino-acid related constants
